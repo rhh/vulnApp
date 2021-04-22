@@ -27,7 +27,10 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
  * 
  * @author Rafael
  *
+ * use secret gyfqvD7tqpef9JT80q/nf8hlauNzqnE4zBEsuv0t
  */
+
+
 @ComponentScan(basePackages = { "com.github.rafaelrpinto.vulnerablejavawebapp.controller",
 		"com.github.rafaelrpinto.vulnerablejavawebapp.repository" })
 @EnableAutoConfiguration
